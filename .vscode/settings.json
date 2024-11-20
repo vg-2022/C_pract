@@ -6,6 +6,8 @@
         "CheckSymmetric.C": "cpp",
         "MatTranspose.C": "cpp",
         "String1.C": "cpp",
-        "String2Manual.C": "cpp"
+        "String2Manual.C": "cpp",
+        "stringCasechange.C": "cpp",
+        "stringPalindrome.C": "cpp"
     }
 }
