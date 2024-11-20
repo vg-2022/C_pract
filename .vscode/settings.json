@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "EvenSquareOddCube.C": "cpp",
-        "Matrix operations.C": "cpp"
+        "Matrix operations.C": "cpp",
+        "matrixOperations.C": "cpp",
+        "CheckSymmetric.C": "cpp",
+        "MatTranspose.C": "cpp",
+        "String1.C": "cpp",
+        "String2Manual.C": "cpp"
     }
 }
