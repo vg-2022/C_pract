@@ -14,6 +14,7 @@
         "bubbleSort.C": "cpp",
         "insertionSort.C": "cpp",
         "selectionSort.C": "cpp",
-        "SlinkedList.C": "cpp"
+        "SlinkedList.C": "cpp",
+        "doublyLinkedList.C": "cpp"
     }
 }
