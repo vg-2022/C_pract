@@ -8,6 +8,12 @@
         "String1.C": "cpp",
         "String2Manual.C": "cpp",
         "stringCasechange.C": "cpp",
-        "stringPalindrome.C": "cpp"
+        "stringPalindrome.C": "cpp",
+        "linearSearch.C": "cpp",
+        "binarySearch.C": "cpp",
+        "bubbleSort.C": "cpp",
+        "insertionSort.C": "cpp",
+        "selectionSort.C": "cpp",
+        "SlinkedList.C": "cpp"
     }
 }
